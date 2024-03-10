@@ -1,16 +1,32 @@
-<h1 align="center">Hi 👋, I'm Ayhan Yılmaz</h1>
-<h3 align="center">A passionate python developer from Turkiye</h3>
+<h2 align="left">Hi! My name is Ayhan and I'm a Python Developer from Turkey!</h2>
 
-- 📫 How to reach me **ayhan_yilmaz10@outlook.com**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/ayhannn870" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayhannn870" height="30" width="40" /></a>
-</p>
+<br clear="both">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayhanyilmaz10&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true" height="300" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayhanyilmaz10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false" height="300" alt="languages graph"  />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayhanyilmaz10&show_icons=true&locale=en&layout=compact" alt="ayhanyilmaz10" /></p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayhanyilmaz10&show_icons=true&locale=en" alt="ayhanyilmaz10" /></p>
+<br clear="both">
+
+<img align="left" height="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjF0NWl2cnV1aHZhcHNsb2R3cnNpZXBvYzVwMXM1czZidWx3bHJseCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RJwEHsKcusA2NDdIYv/source.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/ayhannn870/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+</div>
+
+###
